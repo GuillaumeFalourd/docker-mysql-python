@@ -1,6 +1,14 @@
-# Docker My-SQL
+# Docker Catalisa
 
-## Docker com Banco de dados Mysql
+## Index
+
+- [Docker com Banco de dados Mysql]()
+- [Docker com Backend Python]()
+- [Docker Compose]()
+- [Desafio]()
+
+
+## 🗃 Docker com Banco de dados Mysql
 
 ### 1.1 Construir a imagem
 
@@ -120,7 +128,7 @@ Para remover-lo definitivamente dessa lista e conseguir subir um novo container 
 Após isso, até a lista retornada pelo comando `docker ps -a` estará vazia.
 
 
-## Docker com Backend Python
+## 🐍 Docker com Backend Python
 
 ### 1.1 Construir a imagem
 
@@ -173,7 +181,7 @@ Para remover-lo definitivamente dessa lista e conseguir subir um novo container 
 Após isso, até a lista retornada pelo comando `docker ps -a` estará vazia.
 
 
-## Docker Compose
+## 🐍🗃 Docker Compose
 
 Quando trabalhamos com vários containers, gerenciar a execução deles pode ficar mais complexo. 
 Para isso, temos algumas tecnologias que auxiliam, sendo uma delas o **Docker Compose**. 
@@ -207,6 +215,6 @@ docker-compose down
 Executando o comando `docker ps -a` agora, os containers não deveriam mais aparecer.
 
 
-## Desafio
+## 🛠 Desafio
 
 Agora que entendeu como o Docker e o Docker Compose funcionam, tentem adaptar o código presente nesse projeto usando agora um Backend em Java com JDBC.
