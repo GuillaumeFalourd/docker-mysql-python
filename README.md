@@ -6,7 +6,7 @@
 - [Docker com Backend Python](https://github.com/GuillaumeFalourd/docker-catalisa/blob/main/README.md#-docker-com-backend-python)
 - [Docker Compose](https://github.com/GuillaumeFalourd/docker-catalisa/blob/main/README.md#-docker-compose)
 - [Desafio](https://github.com/GuillaumeFalourd/docker-catalisa/blob/main/README.md#-desafio)
-- [Referências](https://github.com/GuillaumeFalourd/docker-catalisa/blob/main/README.md#-referencias)
+- [Referências](https://github.com/GuillaumeFalourd/docker-catalisa/blob/main/README.md#-refer%C3%AAncias)
 
 
 ## 🗃 Docker com Banco de dados Mysql
