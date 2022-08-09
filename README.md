@@ -6,6 +6,7 @@
 - [Docker com Backend Python](https://github.com/GuillaumeFalourd/docker-catalisa/blob/main/README.md#-docker-com-backend-python)
 - [Docker Compose](https://github.com/GuillaumeFalourd/docker-catalisa/blob/main/README.md#-docker-compose)
 - [Desafio](https://github.com/GuillaumeFalourd/docker-catalisa/blob/main/README.md#-desafio)
+- [Referências](https://github.com/GuillaumeFalourd/docker-catalisa/blob/main/README.md#-referencias)
 
 
 ## 🗃 Docker com Banco de dados Mysql
@@ -218,3 +219,9 @@ Executando o comando `docker ps -a` agora, os containers não deveriam mais apar
 ## 🛠 Desafio
 
 Agora que entendeu como o Docker e o Docker Compose funcionam, tentem adaptar o código presente nesse projeto usando agora um Backend em Java com JDBC.
+
+
+## 📚 Referências
+
+- [Docker para desenvolvedores](https://github.com/gomex/docker-para-desenvolvedores) 
+- [Descomplicando Docker](https://github.com/badtuxx/DescomplicandoDocker)
