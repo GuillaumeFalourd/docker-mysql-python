@@ -13,7 +13,7 @@
 ## 📋 Contexto
 
 Esse projeto é composto de 2 módulos:
-- um backend em Python na pasta `backend`.
+- um backend em Python usando [FastAPI](https://fastapi.tiangolo.com/) na pasta `backend`.
 - as configurações do banco de dados usando mysql na pasta `mysql`.
 
 
