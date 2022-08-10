@@ -1,4 +1,4 @@
-# Docker Catalisa
+# Docker Mysql Python
 
 ## Index
 
@@ -226,6 +226,8 @@ Executando o comando `docker ps -a` agora, os containers não deveriam mais apar
 
 ## 🛠 Desafio
 
+### Java & PostgreSQL
+
 Agora que entendeu como o **Docker** e o **Docker Compose** funcionam, tentem adaptar o código presente nesse projeto usando agora um Backend em **Java** com **JDBC** e **PostgreSQL**.
 
 
@@ -233,3 +235,4 @@ Agora que entendeu como o **Docker** e o **Docker Compose** funcionam, tentem ad
 
 - [Docker para desenvolvedores](https://github.com/gomex/docker-para-desenvolvedores) 
 - [Descomplicando Docker](https://github.com/badtuxx/DescomplicandoDocker)
+- [Docker, tudo que você precisa saber](https://www.zup.com.br/blog/o-que-e-docker-e-conteiner)
