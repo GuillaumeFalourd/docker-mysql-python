@@ -236,3 +236,5 @@ Agora que entendeu como o **Docker** e o **Docker Compose** funcionam, tentem ad
 - [Docker para desenvolvedores](https://github.com/gomex/docker-para-desenvolvedores) 
 - [Descomplicando Docker](https://github.com/badtuxx/DescomplicandoDocker)
 - [Docker, tudo que você precisa saber](https://www.zup.com.br/blog/o-que-e-docker-e-conteiner)
+- [Docker DCA - Playlist Youtube](https://www.youtube.com/playlist?list=PL4ESbIHXST_TJ4TvoXezA0UssP1hYbP9_)
+- [Docker DCA - Alura](https://www.alura.com.br/formacao-docker-dca)
