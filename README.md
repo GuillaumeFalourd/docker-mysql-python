@@ -214,7 +214,7 @@ Também daria agora para acessar a URL [http://0.0.0.0/employees](http://0.0.0.0
 
 Para sair do prompt do docker-compose up, use as teclas `CTRL + C`.
 
-Isso não vai remover os containers, será ainda possível ver que eles usando o comando `docker ps -a`.
+Isso não vai remover os containers, será ainda possível ver eles usando o comando `docker ps -a`.
 
 Para remover os containers, use o seguinte comando:
 
