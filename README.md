@@ -114,11 +114,12 @@ mysql> show columns from employees;
 
 ```
 mysql> select * from employees;
-+------------+-----------+------------+-------------------+
-| first_name | last_name | department | email             |
-+------------+-----------+------------+-------------------+
-| Lorenz     | Vanthillo | IT         | lvthillo@mail.com |
-+------------+-----------+------------+-------------------+
++------------+-----------+------------+-----------------------+
+| first_name | last_name | department | email                 |
++------------+-----------+------------+-----------------------+
+| John       | Doe       | IT         | johndoe@mail.com      |
+| Bill       | Campbell  | HR         | billcampbell@mail.com |
++------------+-----------+------------+-----------------------+
 1 row in set (0.01 sec)
 ```
 
