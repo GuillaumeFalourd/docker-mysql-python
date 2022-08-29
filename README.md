@@ -196,7 +196,7 @@ Após isso, até a lista retornada pelo comando `docker ps -a` estará vazia.
 Quando trabalhamos com vários containers, gerenciar a execução deles pode ficar mais complexo. 
 Para isso, temos algumas tecnologias que auxiliam, sendo uma delas o **Docker Compose**. 
 
-### 1. Subir o docker-compose1
+### 1. Subir o docker-compose
 
 Na pasta `root` do repositório:
 
