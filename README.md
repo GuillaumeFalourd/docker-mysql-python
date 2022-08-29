@@ -120,7 +120,7 @@ mysql> select * from employees;
 | John       | Doe       | IT         | johndoe@mail.com      |
 | Bill       | Campbell  | HR         | billcampbell@mail.com |
 +------------+-----------+------------+-----------------------+
-1 row in set (0.01 sec)
+2 rows in set (0.01 sec)
 ```
 
 ### 1.4 Matar o container
