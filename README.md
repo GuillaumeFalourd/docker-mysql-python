@@ -123,7 +123,7 @@ mysql> select * from employees;
 2 rows in set (0.01 sec)
 ```
 
-### 1.4 Matar o container
+### 1.4 Desmontar o container
 
 Após ter saido do container (usando o comando `exit`), ele continuará `Up` até você parar-lo.
 
@@ -176,7 +176,7 @@ Uma vez no container, você pode listar e ver os arquivos que foram inclusos la.
 
 _Nota: Você pode rodar o comando `exit` em qualquer momento para sair do container._
 
-### 1.4 Matar o container
+### 1.4 Desmontar o container
 
 Da mesma forma que com o container do database, após ter saido do container de backend (usando o comando `exit`), ele continuará `Up` até você parar-lo.
 
