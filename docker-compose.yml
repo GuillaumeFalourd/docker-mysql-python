@@ -8,7 +8,7 @@ services:
     mysql:
         image: company-database
         ports:
-            - "3306:3036"
+            - "3306:3306"
         environment:
             MYSQL_ROOT_PASSWORD: RootPassword
             MYSQL_DATABASE: Company
