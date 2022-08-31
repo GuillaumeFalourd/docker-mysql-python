@@ -21,7 +21,7 @@ Esse projeto é composto de 2 módulos:
 
 ### 1.1 Construir a imagem
 
-Na pasta `mysql` do repositório:
+Na pasta `mysql` do repositório, existe um arquivo [Dockerfile](https://github.com/GuillaumeFalourd/docker-mysql-python/blob/main/mysql/Dockerfile) a partir do qual podemos contruir uma imagem do nosso `database`:
 
 ```bash
 docker build -t company-database .
@@ -142,7 +142,7 @@ Após isso, até a lista retornada pelo comando `docker ps -a` estará vazia.
 
 ### 1.1 Construir a imagem
 
-Na pasta `backend` do repositório:
+Na pasta `backend` do repositório, existe um arquivo [Dockerfile](https://github.com/GuillaumeFalourd/docker-mysql-python/blob/main/backend/Dockerfile) a partir do qual podemos contruir uma imagem do nosso `backend`:
 
 ```bash
 docker build -t company-backend .
