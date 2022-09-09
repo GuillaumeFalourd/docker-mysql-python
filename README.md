@@ -1,5 +1,7 @@
 # Docker Mysql Python
 
+👉 Repositório relacionado ao artigo [Docker na prática](https://www.zup.com.br/blog/docker-na-pratica).
+
 ## Index
 
 - [Contexto](https://github.com/GuillaumeFalourd/docker-mysql-python/blob/main/README.md#-contexto)
